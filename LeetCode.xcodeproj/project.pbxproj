@@ -75,10 +75,10 @@
 				77D001DA2A7A018600B17F13 /* Array */,
 				77D001E02A7A018600B17F13 /* DP */,
 				77D001DD2A7A018600B17F13 /* LinkList */,
-				77D001D92A7A018600B17F13 /* Tool.cpp */,
-				77D001D52A7A018600B17F13 /* Tool.hpp */,
 				77D001D62A7A018600B17F13 /* Tree */,
 				77D001CE2A7A012500B17F13 /* main.cpp */,
+				77D001D92A7A018600B17F13 /* Tool.cpp */,
+				77D001D52A7A018600B17F13 /* Tool.hpp */,
 			);
 			path = LeetCode;
 			sourceTree = "<group>";
